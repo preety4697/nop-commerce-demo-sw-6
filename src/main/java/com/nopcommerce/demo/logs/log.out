@@ -1,0 +1,6 @@
+2023-12-19 19:12:511 INFO  HomePage :49 - Click on loginLink : Log in
+2023-12-19 19:12:349 INFO  HomePage :34 - Get pageTitle text : Welcome, Please Sign In!
+2023-12-19 19:12:540 INFO  HomePage :64 - Click on registerLink : Register
+2023-12-19 19:12:551 INFO  HomePage :91 - Select 'Female' radio button
+2023-12-19 19:12:718 INFO  HomePage :102 - Enter Firstname : 'Testy' to firstName field
+2023-12-19 19:12:801 INFO  HomePage :109 - Enter Lastname : 'Tester' to lastName field
